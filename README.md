@@ -4,12 +4,25 @@ I’m a third-year B.Tech student specializing in Artificial Intelligence & Data
 
 As a **16x Hackathon Finalist**, I thrive in collaborative environments and enjoy solving real-world problems. Currently, I’m proud to be a **Tech Contributor at GirlScript Summer of Code (GSSoC’25)** and a **Campus Ambassador at Unstop**.
 
----
-
 - 🔭 I’m currently working on a **Real-time Sign Language Translator** and a **Disaster Information Aggregation System**.
-- 🌱 I’m currently deepening my knowledge of **Agentic AI**.
-- 👯 I’m looking to collaborate on open-source projects related to **AI for Social Good**.
+- 🌱 I’m currently deepening my knowledge of **Agentic AI** and **Cloud Native technologies**.
 - 💬 Ask me about **Python, Machine Learning, and Hackathon Strategies**!
+
+---
+### 🔑 Key Interests & Technologies
+`Artificial Intelligence` `Machine Learning` `Data Science` `Generative AI` `Agentic AI` `Python` `C` `JavaScript` `React` `Node.js` `Cloud Computing` `Open Source` `Hackathons` `GSSoC'25`
+
+---
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ni8inc264">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ni8inc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ni8inc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
@@ -20,6 +33,7 @@ As a **16x Hackathon Finalist**, I thrive in collaborative environments and enjo
 ![Data Science](https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
