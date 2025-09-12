@@ -16,11 +16,11 @@ As a **16x Hackathon Finalist**, I thrive in collaborative environments and enjo
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ni8inc264">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ni8inc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
+  <a href="https://github.com/nitinc264">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ni8inc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
   </a>
 </p>
 
