@@ -1,70 +1,70 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=435&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;16x+Hackathon+Finalist" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=435&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;16x+Hackathon+Finalist" alt="Typing SVG" />
+</a>
 </p>
 
-## 👋 About Me  
-Hi there, I'm **Nitin Chauhan**! 🚀  
-I’m a **third-year B.Tech student** specializing in **Artificial Intelligence & Data Science**, based in **Pune, Maharashtra**.  
+👋 About Me
+Hi there, I'm Nitin Chauhan! 🚀
 
-I’m passionate about leveraging emerging technologies like **Agentic AI** and **Generative AI** to build innovative and impactful solutions.  
+I’m a third-year B.Tech student specializing in Artificial Intelligence & Data Science, based in Pune, Maharashtra.
 
-As a **16x Hackathon Finalist**, I thrive in collaborative environments and enjoy solving real-world problems.  
+I’m passionate about leveraging emerging technologies like Agentic AI and Generative AI to build innovative and impactful solutions.
 
-Currently, I’m proud to be a:  
-- 🛠️ **Tech Contributor** at *GirlScript Summer of Code (GSSoC’25)*  
-- 🎯 **Campus Ambassador** at *Unstop*  
+As a 16x Hackathon Finalist, I thrive in collaborative environments and enjoy solving real-world problems.
 
----
+Currently, I’m proud to be a:
 
-## 🔭 Current Projects  
-- 🤟 **Real-time Sign Language Translator**  
-- 🌍 **Disaster Information Aggregation System**  
+🛠️ Tech Contributor at GirlScript Summer of Code (GSSoC’25) - 🎯 Campus Ambassador at Unstop <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+🔭 Current Projects
+🤟 Real-time Sign Language Translator - 🌍 Disaster Information Aggregation System <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌱 Currently Exploring  
-- ⚡ **Agentic AI**  
-- ☁️ **Cloud Native Technologies**  
+🌱 Currently Exploring
+⚡ Agentic AI - ☁️ Cloud Native Technologies <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+💬 Ask Me About
+🐍 Python
 
-## 💬 Ask Me About  
-- 🐍 Python  
-- 🤖 Machine Learning  
-- 🏆 Hackathon Strategies  
+🤖 Machine Learning
 
----
+🏆 Hackathon Strategies
 
-## 🔑 Key Interests & Technologies  
-- AI/ML | Agentic AI | Generative AI  
-- Cloud Native | Data Science | Open Source  
-- Hackathons | Competitive Programming  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+🔑 Key Interests & Technologies
+AI/ML | Agentic AI | Generative AI
 
-## 📊 GitHub Stats  
+Cloud Native | Data Science | Open Source
+
+Hackathons | Competitive Programming
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/nitinc264">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
-  </a>
+<a href="https://github.com/nitinc264">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
+</a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ My Tech Stack  
-- **Languages**: Python, C++, JavaScript  
-- **Frameworks & Tools**: TensorFlow, PyTorch, Scikit-Learn, FastAPI, Flask  
-- **Cloud & DevOps**: Docker, Kubernetes, GCP, AWS  
-- **Databases**: MySQL, MongoDB, Firebase  
+🛠️ My Tech Stack
+Languages: Python, C++, JavaScript
 
----
+Frameworks & Tools: TensorFlow, PyTorch, Scikit-Learn, FastAPI, Flask
 
-## 🏆 Hackathon & Competition Highlights  
+Cloud & DevOps: Docker, Kubernetes, GCP, AWS
+
+Databases: MySQL, MongoDB, Firebase
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+🏆 Hackathon & Competition Highlights
 <table>
 <tr>
 <td>🌱 <strong>Wadhwani Foundation Incubation Offer</strong> – Awarded for AI + AR/VR Startup Idea</td>
@@ -76,13 +76,14 @@ Currently, I’m proud to be a:
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📫 Let's Connect!  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nitin-chauhan-0264/)  
-- 📧 **Email**: nitinchauhan94500@gmail.com  
+📫 Let's Connect!
+🔗 LinkedIn: Nitin Chauhan
 
----
+📧 Email: nitinchauhan94500@gmail.com
 
-## 🔖 Hashtags  
-#ArtificialIntelligence #MachineLearning #GenerativeAI #AgenticAI #DataScience #CloudComputing #OpenSource #Hackathons #Python #DeepLearning #AIResearch #TechInnovation #GitHubProfile #StudentDeveloper #HackathonFinalist  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+🔖 Hashtags
+#ArtificialIntelligence #MachineLearning #GenerativeAI #AgenticAI #DataScience #CloudComputing #OpenSource #Hackathons #Python #DeepLearning #AIResearch #TechInnovation #GitHubProfile #StudentDeveloper #HackathonFinalist
