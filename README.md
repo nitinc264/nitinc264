@@ -1,36 +1,70 @@
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=435&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;16x+Hackathon+Finalist" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=435&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;16x+Hackathon+Finalist" alt="Typing SVG" />
+  </a>
 </p>
 
-To know more about me, check out my LinkedIn Profile 🚀
-Hi there, I'm Nitin! 👋
-I’m a third-year B.Tech student specializing in Artificial Intelligence & Data Science, based in Pune, Maharashtra. I'm passionate about leveraging emerging technologies like Agentic AI and Generative AI to build innovative and impactful solutions.
+## 👋 About Me  
+Hi there, I'm **Nitin Chauhan**! 🚀  
+I’m a **third-year B.Tech student** specializing in **Artificial Intelligence & Data Science**, based in **Pune, Maharashtra**.  
 
-As a 16x Hackathon Finalist, I thrive in collaborative environments and enjoy solving real-world problems. Currently, I’m proud to be a Tech Contributor at GirlScript Summer of Code (GSSoC’25) and a Campus Ambassador at Unstop.
+I’m passionate about leveraging emerging technologies like **Agentic AI** and **Generative AI** to build innovative and impactful solutions.  
 
-🔭 I’m currently working on a Real-time Sign Language Translator and a Disaster Information Aggregation System.
+As a **16x Hackathon Finalist**, I thrive in collaborative environments and enjoy solving real-world problems.  
 
-🌱 I’m currently deepening my knowledge of Agentic AI and Cloud Native technologies.
+Currently, I’m proud to be a:  
+- 🛠️ **Tech Contributor** at *GirlScript Summer of Code (GSSoC’25)*  
+- 🎯 **Campus Ambassador** at *Unstop*  
 
-💬 Ask me about Python, Machine Learning, and Hackathon Strategies!
+---
 
-🔑 Key Interests & Technologies
-Artificial Intelligence Machine Learning Data Science Generative AI Agentic AI Python C JavaScript React Node.js Cloud Computing Open Source Hackathons GSSoC'25
+## 🔭 Current Projects  
+- 🤟 **Real-time Sign Language Translator**  
+- 🌍 **Disaster Information Aggregation System**  
 
-📊 My GitHub Stats
+---
+
+## 🌱 Currently Exploring  
+- ⚡ **Agentic AI**  
+- ☁️ **Cloud Native Technologies**  
+
+---
+
+## 💬 Ask Me About  
+- 🐍 Python  
+- 🤖 Machine Learning  
+- 🏆 Hackathon Strategies  
+
+---
+
+## 🔑 Key Interests & Technologies  
+- AI/ML | Agentic AI | Generative AI  
+- Cloud Native | Data Science | Open Source  
+- Hackathons | Competitive Programming  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-<a href="https://github.com/nitinc264">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
-</a>
+  <a href="https://github.com/nitinc264">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
+  </a>
 </p>
 
-🛠️ My Tech Stack
-🏆 Hackathon & Competition Highlights
+---
+
+## 🛠️ My Tech Stack  
+- **Languages**: Python, C++, JavaScript  
+- **Frameworks & Tools**: TensorFlow, PyTorch, Scikit-Learn, FastAPI, Flask  
+- **Cloud & DevOps**: Docker, Kubernetes, GCP, AWS  
+- **Databases**: MySQL, MongoDB, Firebase  
+
+---
+
+## 🏆 Hackathon & Competition Highlights  
 <table>
 <tr>
 <td>🌱 <strong>Wadhwani Foundation Incubation Offer</strong> – Awarded for AI + AR/VR Startup Idea</td>
@@ -42,7 +76,13 @@ Artificial Intelligence Machine Learning Data Science Generative AI Agentic AI P
 </tr>
 </table>
 
-📫 Let's Connect!
-LinkedIn: Nitin Chauhan
+---
 
-Email: nitinchauhan94500@gmail.com
+## 📫 Let's Connect!  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitin-chauhan-0264/)  
+- 📧 **Email**: nitinchauhan94500@gmail.com  
+
+---
+
+## 🔖 Hashtags  
+#ArtificialIntelligence #MachineLearning #GenerativeAI #AgenticAI #DataScience #CloudComputing #OpenSource #Hackathons #Python #DeepLearning #AIResearch #TechInnovation #GitHubProfile #StudentDeveloper #HackathonFinalist  
