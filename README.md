@@ -85,6 +85,3 @@ Databases: MySQL, MongoDB, Firebase
 📧 Email: nitinchauhan94500@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-🔖 Hashtags
-#ArtificialIntelligence #MachineLearning #GenerativeAI #AgenticAI #DataScience #CloudComputing #OpenSource #Hackathons #Python #DeepLearning #AIResearch #TechInnovation #GitHubProfile #StudentDeveloper #HackathonFinalist
