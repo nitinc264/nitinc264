@@ -36,7 +36,7 @@ Currently, I’m proud to be a:
 🔑 Key Interests & Technologies
 AI/ML | Agentic AI | Generative AI
 
-Cloud Native | Data Science | Open Source
+Data Science | Open Source
 
 Hackathons | Competitive Programming
 
@@ -55,13 +55,11 @@ Hackathons | Competitive Programming
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 🛠️ My Tech Stack
-Languages: Python, C++, JavaScript
+Languages: Python , 
 
-Frameworks & Tools: TensorFlow, PyTorch, Scikit-Learn, FastAPI, Flask
+Frameworks & Tools: TensorFlow, Scikit-Learn, FastAPI, Flask
 
-Cloud & DevOps: Docker, Kubernetes, GCP, AWS
-
-Databases: MySQL, MongoDB, Firebase
+Databases: MySQL.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
