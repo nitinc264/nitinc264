@@ -11,7 +11,7 @@ I’m a third-year B.Tech student specializing in Artificial Intelligence & Data
 
 I’m passionate about leveraging emerging technologies like Agentic AI and Generative AI to build innovative and impactful solutions.
 
-As a 16x Hackathon Finalist, I thrive in collaborative environments and enjoy solving real-world problems.
+As a 18x Hackathon Finalist, I thrive in collaborative environments and enjoy solving real-world problems.
 
 Currently, I’m proud to be a:
 
