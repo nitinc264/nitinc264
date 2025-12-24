@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitinc264&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=435&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;18x+Hackathon+Finalist" alt="Typing SVG" />
