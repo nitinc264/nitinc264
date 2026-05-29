@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=500&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;18x+Hackathon+Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00C853&vCenter=true&width=500&lines=Hello+There!+I'm+Nitin;Aspiring+AI%2FML+Engineer;20x+Hackathon+Finalist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Hi there! I'm **Nitin Chauhan** 🚀
 📍 Pune, Maharashtra, India  
 
 I’m passionate about leveraging **Agentic AI** and **Generative AI** to build innovative, real-world solutions.  
-As an **18× Hackathon Finalist**, I thrive in collaborative environments and enjoy solving complex problems.
+As an **20× Hackathon Finalist**, I thrive in collaborative environments and enjoy solving complex problems.
 
 ### 🚀 Currently I Am:
 - 🛠️ **Tech Contributor** at **GirlScript Summer of Code (GSSoC’25)**
