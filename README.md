@@ -14,31 +14,40 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 Hi there! I'm **Nitin Chauhan** 🚀
 
 🎓 **Final-year B.Tech student** in **Artificial Intelligence & Data Science (2027)**  
-📍 Pune, Maharashtra, India  
+📍 **Pune, Maharashtra, India**
 
-I enjoy building practical solutions using **AI/ML, Computer Vision, NLP, and Multi-Agent AI systems**.  
-I love turning ideas into real products through hackathons, open source, and hands-on engineering.
+I enjoy building practical solutions using **AI/ML, Computer Vision, NLP, and Multi-Agent AI systems**.
 
-### 🏆 Highlights
-- 🥇 **Winner — VOIS Tech Innovation Marathon 2.0**  
-- 🏅 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
-- 🔥 **19× National Hackathon Finalist**
-- 👨‍💼 **Vice President — Hackathon Club, DYPSST Pune**
-- 🛠️ **Open Source Contributor — GirlScript Summer of Code (GSSoC’25)**
-- 🎯 **Campus Ambassador — Unstop**
+I love turning ideas into real products through **hackathons, open source, and hands-on engineering**.
 
 ---
 
-## 🔭 Current Projects
+## 🏆 Highlights
 
-- 🧾 **Smart Invoice Reimbursement Extractor** — Intelligent document processing with Gemini Pro + OCR + Streamlit
-- 🌍 **Aegis AI** — Multi-Agent Disaster Response & Resource Optimization Platform
-- 🤟 **Real-Time ASL Sign Language Translator** — MediaPipe + OpenCV based recognition system
+| Achievement | |
+|:------------|:--|
+| 🥇 | **Winner — VOIS Tech Innovation Marathon 2.0** |
+| 🏅 | **Oracle Cloud Infrastructure 2025 Certified Data Science Professional** |
+| 🔥 | **19× National Hackathon Finalist** |
+| 👨‍💼 | **Vice President — Hackathon Club, DYPSST Pune** |
+| 🛠️ | **Open Source Contributor — GirlScript Summer of Code (GSSoC'25)** |
+| 🎯 | **Campus Ambassador — Unstop** |
+
+---
+
+# 🔭 Current Projects
+
+- 🌍 **AEGIS AI** — Multi-Agent Disaster Response & Resource Optimization Platform
+- 💼 **CredX AI** — AI-powered career recommendation platform with semantic job matching
+- 🌊 **Flood Prediction** — End-to-end ML system for real-time flood risk prediction
+- 📄 **RAG Document Assistant** — AI-powered PDF question-answering using Retrieval-Augmented Generation
+- 🤟 **Sign Language Translator** — Real-time sign language recognition using MediaPipe & OpenCV
+- 🧾 **Smart Invoice Reimbursement Extractor** — Intelligent document processing with Gemini Pro, OCR & Streamlit
 
 ---
 
@@ -52,77 +61,115 @@ I love turning ideas into real products through hackathons, open source, and han
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
-- 🐍 Python
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🧠 NLP & LLM Applications
-- 🏆 Hackathon Strategy & Product Building
-
----
-
-## 🔑 Key Interests & Technologies
-
-- AI/ML | Computer Vision | NLP
-- Agentic AI | Generative AI | Multi-Agent Systems
-- Data Science | Open Source | Cloud
-- Hackathons | Competitive Programming
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/nitinc264">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=radical&rank_icon=github" alt="Nitin's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nitinc264&theme=gruvbox&row=1" alt="GitHub Trophies"/>
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP%20%26%20LLM%20Applications-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon%20Strategy%20%26%20Product%20Building-E91E63?style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ My Tech Stack
+# 🔑 Key Interests & Technologies
 
-### Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%2FML-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathons-F97316?style=for-the-badge" />
+</p>
 
-### AI & ML
-- Computer Vision (OpenCV, MediaPipe)
-- Pandas
-- NumPy
-- NLP
-- Scikit-learn
-- XGBoost
-- Model Evaluation
-- Feature Engineering
+---
 
-### Frameworks & Libraries
-- Flask
-- FastAPI
-- Streamlit
-- TensorFlow
-- Google Gemini API
-- Vertex AI
+# 📊 GitHub Stats
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinc264&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinc264&theme=tokyonight&hide_border=true" />
+</p>
 
-### Databases
-- MySQL
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinc264&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### Cloud
-- Oracle Cloud Infrastructure (OCI)
+---
+
+# 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinc264&theme=github-compact&hide_border=true" width="100%" />
+</p>
+
+---
+
+# 🛠️ My Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-Vision-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC6B23?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-Data%20Science-success?style=for-the-badge" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### ☁️ Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
 ---
 
@@ -145,19 +192,35 @@ I love turning ideas into real products through hackathons, open source, and han
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### AI Intern — Prasunet
-**June 2025 – July 2025**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Intern — Prasunet
+
+📅 **June 2025 – July 2025**
+
 - Built a real-time ASL recognition system using **MediaPipe** and **OpenCV**
 - Applied mirrored-camera correction and landmark normalization
 - Achieved **sub-100ms inference latency**
 
-### Open Source Contributor — GSSoC ’25
-**May 2025 – August 2025**
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Open Source Contributor — GSSoC '25
+
+📅 **May 2025 – August 2025**
+
 - Merged **3 pull requests** into production Python data tooling repositories
 - Fixed pipeline bugs and utility functions
 - Participated in structured code reviews with a global contributor community
+
+</td>
+</tr>
+</table>
 
 ---
 
