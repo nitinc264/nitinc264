@@ -114,62 +114,120 @@ I love turning ideas into real products through **hackathons, open source, and h
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br><b>Python</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br><b>JavaScript</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><b>MySQL</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🤖 AI & Machine Learning
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-Vision-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC6B23?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-Data%20Science-success?style=for-the-badge" />
+<p>
+
+🏷️ OpenCV &nbsp; • &nbsp;
+🏷️ MediaPipe &nbsp; • &nbsp;
+🏷️ Pandas &nbsp; • &nbsp;
+🏷️ NumPy &nbsp; • &nbsp;
+🏷️ NLP &nbsp; • &nbsp;
+🏷️ Scikit-Learn &nbsp; • &nbsp;
+🏷️ XGBoost &nbsp; • &nbsp;
+🏷️ Model Evaluation &nbsp; • &nbsp;
+🏷️ Feature Engineering
+
 </p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=flask" width="48"/><br><b>Flask</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><b>FastAPI</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br><b>TensorFlow</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br><b>Streamlit</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/><br><b>Gemini API</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/><br><b>Vertex AI</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br><b>Git</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br><b>GitHub</b>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><b>VS Code</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/><br><b>Jupyter</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/><br><b>Colab</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><b>MySQL</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ### ☁️ Cloud
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+<table>
+<tr align="center">
+<td>
+<img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/><br><b>Oracle Cloud Infrastructure</b>
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
